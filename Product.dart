@@ -45,6 +45,8 @@ class Product {
 
 
 // Our demo Products
+// Now the list contains data
+//But I want to fill the list from firebase
 
 List<Product> demoProducts = [
   Product(
